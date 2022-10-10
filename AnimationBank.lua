@@ -1,3 +1,6 @@
+local function Asset(id)
+  return id -- didnt know it was gonna return rbxassetid :skull:
+end
 local AnimationBank = {}; -- All anims (alot)
 AnimationBank['Animation'] = Asset('rbxassetid://2245008829'); -- super_man9032SavePoint
 AnimationBank['Animation'] = Asset('rbxassetid://5863341100'); -- DeltaJetPack
